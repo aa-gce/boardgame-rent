@@ -1,12 +1,12 @@
-| WBS Code | Work Package | Estimated Duration | Estimated Cost (Toman) |
-|---|---|---:|---:|
-| 1.1.1 | Identify Stakeholders | 0.5 day | 500,000 |
-| 1.1.2 | Collect Functional Requirements | 1.5 days | 1,500,000 |
-| 1.1.3 | Collect Non-Functional Requirements | 1 day | 1,000,000 |
-| 1.2.1 | Technical Feasibility Analysis | 1 day | 1,200,000 |
-| 1.2.2 | Economic Feasibility Analysis | 0.5 day | 700,000 |
-| 1.2.3 | Operational Feasibility Analysis | 0.5 day | 700,000 |
-| 1.3.1 | Define Use Cases | 1 day | 1,200,000 |
+| WBS Code | Work Package | Estimated Duration(Day) | Estimated Cost(Toman) |
+|:---:|:---|:---|:---|
+| 1.1.1 | Identify Stakeholders | 0.5 | 500,000 |
+| 1.1.2 | Collect Functional Requirements | 1.5 | 1,500,000 |
+| 1.1.3 | Collect Non-Functional Requirements | 1 | 1,000,000 |
+| 1.2.1 | Technical Feasibility Analysis | 1 | 1,200,000 |
+| 1.2.2 | Economic Feasibility Analysis | 0.5 | 700,000 |
+| 1.2.3 | Operational Feasibility Analysis | 0.5 | 700,000 |
+| 1.3.1 | Define Use Cases | 1 | 1,200,000 |
 | 1.3.2 | Prepare Requirement Specification Document | 1 day | 1,200,000 |
 | 1.3.3 | Review and Approval of Requirements | 0.5 day | 500,000 |
 | 2.1.1 | Define System Components | 0.5 day | 600,000 |
